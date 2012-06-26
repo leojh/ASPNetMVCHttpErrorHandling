@@ -1,0 +1,5 @@
+C:\TestProjects\GitHub\ASPNetMVCHttpErrorHandling\src\ASPNetMVCHttpErrorHandling\bin\ASPNetMVCHttpErrorHandling.dll
+C:\TestProjects\GitHub\ASPNetMVCHttpErrorHandling\src\ASPNetMVCHttpErrorHandling\bin\ASPNetMVCHttpErrorHandling.pdb
+C:\TestProjects\GitHub\ASPNetMVCHttpErrorHandling\src\ASPNetMVCHttpErrorHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\TestProjects\GitHub\ASPNetMVCHttpErrorHandling\src\ASPNetMVCHttpErrorHandling\obj\Debug\ASPNetMVCHttpErrorHandling.dll
+C:\TestProjects\GitHub\ASPNetMVCHttpErrorHandling\src\ASPNetMVCHttpErrorHandling\obj\Debug\ASPNetMVCHttpErrorHandling.pdb
